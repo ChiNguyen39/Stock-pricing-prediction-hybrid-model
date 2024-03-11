@@ -1,6 +1,6 @@
 # 'Hybrid' model to predict stock pricing
 ### Project goals:
-There are 3 main questions need to be answer:
+There are 3 main questions need to be answered:
 <li>How well machine learning can help to predict stock pricing?</li>
 <li>How feature selection medthod may affect model performance?</li>
 <li>How the "hybrid" model can be better than normal LSTM model?</li>
