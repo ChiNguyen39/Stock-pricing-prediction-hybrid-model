@@ -11,6 +11,7 @@ There are 3 main questions need to be answer:
 <b>Ipynb working file:</b>
 <li>collect_data_manual.ipynb: to collect, consolidate, clean data, feature selection.</li>
 <li>hybrid_model.ipynb: data preprocessing, LSTM models, hybrid model.</li>
+<b>Presentation:</b>
+<li>pdf: the slide deck</li>
+<li>youtube presentation: https://youtu.be/fNSexcybQQk</li>
 
-### Youtube presentation:
-Link: https://youtu.be/fNSexcybQQk
